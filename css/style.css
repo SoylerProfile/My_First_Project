@@ -1,0 +1,206 @@
+#content {
+    width: 800px;
+    height: 748px;
+    border: 1px solid #D358F7;
+    padding: 30px, 40px;
+    margin: 20px auto;
+    background: url(../images/menu.png) #F3F781;
+    background-position: top;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    color: #DF7401;
+}
+
+h2 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+h3 {
+    text-align: center;
+    color:#FF4000;
+}
+
+
+body {
+    background: url(..//images/background.jpg) #F3F781;
+    font: 14px/1.25 Arrial, Verdana, Tahoma, sans-serif;
+}
+
+#star {
+    width: 32px;
+    height: 32px;
+    position: fixed;
+    left: 455px;
+    top: 29px;
+}
+
+#download {
+    width: 300px;
+    position: fixed;
+    top: 570px;
+    
+}
+
+#social {
+    width: 450px;
+    height: 200px;
+    float: right;
+    margin-right: 0;
+    padding-bottom: 30px;
+}
+
+#vk {
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+#doctor {
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+#strelka {
+    width: 120px;
+    height: 120px;
+    float: left;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.h11 {
+    text-align: left;
+    
+}
+
+#fruts {
+    width: 90px;
+    top: 300px;
+    left: 500px;
+}
+
+li {
+    color: #0174DF;
+}
+
+#grapes {
+    width: 120px;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+#grapes2 {
+    width 120px;
+    height: 120px;
+    position: absolute;
+    right: 100px;
+    top: 0;
+}
+
+#grapes3 {
+    width: 170px;
+    height: 170px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#vase {
+    height: 90px;
+    position: absolute;
+    left: 500px;
+    top: 680px;
+}
+
+#goodmood {
+    height: 150px;
+    position: absolute;
+    right: 0;
+    top: 75%;
+}
+
+#buterfly {
+    width: 50px;
+    position: absolute;
+    left: 40px;
+    top: 12px;
+}
+
+#bee {
+    width: 50px;
+    position: absolute;
+    left: 390px;
+    top: 700px;
+}
+
+#penguin {
+    position: absolute;
+    left: 70px;
+    top: 90%;
+}
+
+#flower {
+    height: 39px;
+    position: absolute;
+    left: 10px;
+    top: 95%;
+}
+
+#flower2 {
+    height: 39px;
+    position: absolute;
+    left: 47px;
+    top: 95%;
+}
+
+#flower3 {
+    height: 39px;
+    position: absolute;
+    left: 137px;
+    top: 95%;
+}
+
+#flower4 {
+    height: 39px;
+    position: absolute;
+    left: 170px;
+    top: 95%;
+}
+
+#flower5 {
+    height: 39px;
+    position: absolute;
+    left: 203px;
+    top: 95%;
+}
+
+#flower6 {
+    height: 39px;
+    position: absolute;
+    left: 233px;
+    top: 95%;
+}
+
+#flower7 {
+    height: 39px;
+    position: absolute;
+    left: 263px;
+    top: 95%;
+}
+
+#flower8 {
+    height: 39px;
+    position: absolute;
+    left: 293px;
+    top: 95%;
+}
